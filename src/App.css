@@ -1,5 +1,14 @@
+@font-face {
+  font-family: "lora";
+  src: local("lora"),
+   url("./fonts/Lora-Bold.ttf") format("truetype");
+  font-weight: bold;
+ }
+
+
 .App {
   text-align: center;
+  font-family: "lora";
 }
 
 .App-logo {
